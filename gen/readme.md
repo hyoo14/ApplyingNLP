@@ -1,0 +1,1 @@
+Word Embedding 과 같은 무언가를 생성하는 응용 예제
