@@ -1,0 +1,1 @@
+Word Embedding 을 이용하여 similarity 와 같은 것들을 계산해 보는 응용 예제
